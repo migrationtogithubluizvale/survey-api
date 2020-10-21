@@ -5,6 +5,7 @@
     },
    "rules": {
         "@typescript-eslint/comma-spacing": "off",
-        "@typescript-eslint/strict-boolean-expressions": "off"
+        "@typescript-eslint/strict-boolean-expressions": "off",
+        "eslint@typescript-eslint/return-await": "off"
     }
 }
